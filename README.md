@@ -1,13 +1,13 @@
 # lanceScanner
 
-     python3 lancescanner.py -h
+     python3 lancescanner.py https://facebook.com
 
 usage: lancescanner.py [-h] [-l] [-q] url
 
 
 positional arguments:
 
-     url          E.g. http://facebook.com
+     url         E.g. http://facebook.com
   
 
 optional arguments:
