@@ -1,6 +1,6 @@
 # lanceScanner
 
-python3 lancescanner.py -h
+     python3 lancescanner.py -h
 
 usage: lancescanner.py [-h] [-l] [-q] url
 
