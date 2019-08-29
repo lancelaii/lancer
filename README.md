@@ -9,5 +9,7 @@ positional arguments:
 optional arguments:
 
   -h, --help   show this help message and exit
+  
   -l, --list   E.g. url_list.txt
+  
   -q, --quiet  silent mode.
