@@ -2,7 +2,7 @@
 
      python3 lancer.py https://facebook.com
 
-usage: lancescanner.py [-h] [-l] [-v] url
+usage: lancer.py [-h] [-l] [-v] url
 
 
 positional arguments:
