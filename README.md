@@ -1,19 +1,19 @@
 # lanceScanner
 
-     python3 lancescanner.py https://facebook.com
+     python3 lancer.py https://facebook.com
 
-usage: lancescanner.py [-h] [-l] [-q] url
+usage: lancescanner.py [-h] [-l] [-v] url
 
 
 positional arguments:
 
-     url         E.g. http://facebook.com
+     url           E.g. https://www.google.com
   
 
 optional arguments:
 
-    -h, --help   show this help message and exit
+    -h, --help     show this help message and exit
   
-    -l, --list   E.g. url_list.txt
+    -l, --list     E.g. url_list.txt
   
-    -q, --quiet  silent mode.
+    -v, --verbose  verbose mode.
